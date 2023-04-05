@@ -13,5 +13,5 @@
 ## Just started
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,aws)](https://skillicons.dev)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miuradaiki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miuradaiki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
