@@ -6,6 +6,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miuradaiki)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=miuradaiki)](https://git.io/streak-stats)
 
 # Languages&Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,heroku,nuxtjs,rails,ruby,ts,vue,wordpress)](https://skillicons.dev)
